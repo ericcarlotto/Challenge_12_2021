@@ -1,0 +1,26 @@
+Developed by Eric Carlotto.
+
+Base Instructions:
+
+* - Extract the code from the emailed zipped folder.
+
+* - To run the script, you guys need to have the Java installed in your operational system.
+
+Instructions to run the test:
+
+1 - Open your CMD(native windows command prompt) inside the folder that contains the App.java file : /Test_POATEK/src.
+
+2 - Type "java App" in your CMD and press the enter key on your keyboard.
+
+Instructions of the script:
+
+1 - Choose one of the options that is showed on the screen.
+    ex: 1 - Challenge 1: Lists - Shows how many students over the age of 13 are shorter than the average height of those students that are preset in the script.
+        2 - Challenge 2: Functions - Shows the reverse of the given number, but with just logic and not with preset functions.
+        3 - Challenge 3: Classes - Starts the object-oriented "fuel pump" system.
+
+
+2 - Follow the instructions showed in the screen.
+
+Any questions, please send me by email.
+Thanks!
